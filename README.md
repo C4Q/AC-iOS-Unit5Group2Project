@@ -53,7 +53,7 @@ The expectation is that everyone in a group is chiefly occupied with writing cod
  
 ## Rubric 
 
-This project will follow the [Cohort wide Rubric]() along with the Rubric below: 
+This project will follow the [Cohort wide Rubric](https://github.com/C4Q/AC-iOS-Unit5Group2Project/blob/master/Access%20Code%204.0%20Project%20Evaluation%20Rubric%20-%20RUBRIC.pdf) along with the Rubric below: 
 
 |Architecture | Points|
 |:----|:---|
