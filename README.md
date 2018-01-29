@@ -81,6 +81,8 @@ This project will follow the [Cohort wide Rubric](https://github.com/C4Q/AC-iOS-
 |All posts are shown to the user with their current vote status|4 Points|
 |Can vote up or down on a Post|4 Points|
 |Can view details of a Post|4 Points|
+|Can view all of the comments on a Post|4 Points|
+|Create a new comment on a Post|4 Points|
 |Can comment on a Post|4 Points|
 |Can flag a Post|4 Points|
 |Can flag a User|4 Points|
@@ -128,7 +130,7 @@ This project will follow the [Cohort wide Rubric](https://github.com/C4Q/AC-iOS-
 |Gestures are used as needed where uses expect such behavior|2 Points|
 |Animations are included while using best practices|4 Points|
 
-Total Points: 110 points 
+Total Points: 118 points 
 
 |Bonus Features | Points|
 |:----|:---|
