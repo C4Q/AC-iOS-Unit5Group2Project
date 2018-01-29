@@ -71,11 +71,14 @@ This project will follow the [Cohort wide Rubric](https://github.com/C4Q/AC-iOS-
 |Can create a new user|2 Points|
 |Can sign in user|2 Points|
 |Can sign out user|2 Points|
+|Users can reset password|2 Points|
+|Users can verify account| 2 Points|
 
 
 |Feed Tab | Points|
 |:----|:---|
 |Contains a Feed tab where all Posts are shown|4 Points|
+|All posts are shown to the user with their current vote status|4 Points|
 |Can vote up or down on a Post|4 Points|
 |Can view details of a Post|4 Points|
 |Can comment on a Post|4 Points|
@@ -118,7 +121,6 @@ This project will follow the [Cohort wide Rubric](https://github.com/C4Q/AC-iOS-
 |Loss of Network Handling|4 Points|
 |Proper error handling and notification to user|4 Points|
 |Use empty states in app|4 Points|
-|Proper handling of denial of location services request from user|4 Points|
 
 
 |Gestures and Animations | Points|
@@ -126,7 +128,7 @@ This project will follow the [Cohort wide Rubric](https://github.com/C4Q/AC-iOS-
 |Gestures are used as needed where uses expect such behavior|2 Points|
 |Animations are included while using best practices|4 Points|
 
-Total Points: 106 points 
+Total Points: 110 points 
 
 |Bonus Features | Points|
 |:----|:---|
