@@ -7,7 +7,7 @@ Using [Firebase](https://firebase.google.com/docs/ios/setup) as the backend for 
 
 ## Groupwork
 
-[Groups](https://docs.google.com/spreadsheets/d/1Yn8gLFB6hr33EoBptPgqBqvehTi8C12BKz22GfJ25_Q/edit?ts=5a59316f#gid=0)
+[Groups](https://docs.google.com/spreadsheets/d/1Yn8gLFB6hr33EoBptPgqBqvehTi8C12BKz22GfJ25_Q/edit#gid=1548238064)  
 
 Now that we have knowledge from our first Group project let's build upon those experiences. As before those are the collaboration requirements:
 
